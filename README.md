@@ -1,0 +1,2 @@
+# PlagueServerLinks
+serverLinks
